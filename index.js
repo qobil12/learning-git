@@ -1,1 +1,1 @@
-'I'm Qobiljon' 
+console.log("sadasdas")
